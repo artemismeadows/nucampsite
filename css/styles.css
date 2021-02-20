@@ -7,25 +7,25 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #3046c5;
+    color: #3046C5;
 }
 
 header h2 {
-    color: #cec8ff;
+    color: #CEC8FF;
 }
 
 footer {
-    background-image: linear-gradient(#cec8ff, white);
+    background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
 
-jumbotron {
+.jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637dd, #3046c5, #601068);
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
 }
 
-row-content {
+.row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
